@@ -1,0 +1,72 @@
+.half-width{
+    
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+
+
+.half-width img{
+    width: 100%;
+}
+.orange{
+    color: orange;
+    padding-top: 10%;
+}
+.highlight{
+    color: green;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, rgba(15, 133, 11, 0.815), rgba(22, 134, 12, 0.815));
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 700;
+    
+}
+.card-deck{
+    padding-top: 100PX;
+    text-align: center;
+    padding-right: 20px ;
+    padding-left:20px;
+}
+
+.card{
+text-align: center;
+}
+
+.font{
+    padding-top: 60px;
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.testimonial{
+    padding: 30px;
+    text-align: center;
+}
+.width{
+    padding-top: 40px;
+    text-align: center;
+    padding-right: 30%;
+    width: 50;
+}
+
+
+}
+.imnn{
+    width: 20px;
+   float: right;    
+    padding-right: 20px;
+    margin-bottom: 20%;
+height: 100px;
+}
+.footer{
+    padding-left: 50px;
+    padding-top: 50px;
+}
